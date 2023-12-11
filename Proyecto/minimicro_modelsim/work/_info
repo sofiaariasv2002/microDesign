@@ -1,0 +1,455 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+valu
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 18 arm_cortex_m0p_pkg 0 22 k^8c@;V[7^0SL5PIDh3@E2
+DXx4 work 11 alu_sv_unit 0 22 aWO6JacVO7h[_Wgn3RkSW2
+Z2 !s110 1686342355
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 8g896GdWXBS6_O0NM>34F2
+IL3NS@kE4jD_eGh60TBdbB0
+!s105 alu_sv_unit
+S1
+Z4 dC:/Users/FG/Downloads/minimicro_modelsim
+Z5 w1686256419
+Z6 8C:/Users/FG/Downloads/Programas/mmicro/alu.sv
+Z7 FC:/Users/FG/Downloads/Programas/mmicro/alu.sv
+!i122 96
+L0 3 25
+Z8 OV;L;2020.1;71
+31
+Z9 !s108 1686342355.000000
+Z10 !s107 C:/Users/FG/Downloads/Programas/mmicro/alu.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/alu.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+Xalu_sv_unit
+R0
+R1
+R2
+VaWO6JacVO7h[_Wgn3RkSW2
+r1
+!s85 0
+!i10b 1
+!s100 D^O:IX0ZgHbFfSMYKCbXn2
+IaWO6JacVO7h[_Wgn3RkSW2
+!i103 1
+S1
+R4
+R5
+R6
+R7
+!i122 96
+Z14 L0 1 0
+R8
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Xarm_cortex_m0p_pkg
+R0
+R2
+!i10b 1
+!s100 fHlRXNHIG`o;eC4YHhDL63
+Z15 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik^8c@;V[7^0SL5PIDh3@E2
+Vk^8c@;V[7^0SL5PIDh3@E2
+S1
+R4
+w1686256482
+8C:/Users/FG/Downloads/Programas/mmicro/arm_cortex_m0p_pkg.sv
+FC:/Users/FG/Downloads/Programas/mmicro/arm_cortex_m0p_pkg.sv
+!i122 94
+R14
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/FG/Downloads/Programas/mmicro/arm_cortex_m0p_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/arm_cortex_m0p_pkg.sv|
+!i113 1
+R12
+R13
+vcu
+R0
+R1
+DXx4 work 10 cu_sv_unit 0 22 X8J0A28_2md67mHmILVlV1
+Z16 !s110 1686342356
+R3
+r1
+!s85 0
+!i10b 1
+!s100 m5z<6VX@?4O6k6ob;^Tj_2
+IIjNXjKIn8?QmQ`@5lJNO<0
+!s105 cu_sv_unit
+S1
+R4
+Z17 w1686258047
+Z18 8C:/Users/FG/Downloads/Programas/mmicro/cu.sv
+Z19 FC:/Users/FG/Downloads/Programas/mmicro/cu.sv
+!i122 97
+L0 3 102
+R8
+31
+Z20 !s108 1686342356.000000
+Z21 !s107 C:/Users/FG/Downloads/Programas/mmicro/cu.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/cu.sv|
+!i113 1
+R12
+R13
+Xcu_sv_unit
+R0
+R1
+R16
+VX8J0A28_2md67mHmILVlV1
+r1
+!s85 0
+!i10b 1
+!s100 mQnfA@8;_g=?HCMMQe7Lk3
+IX8J0A28_2md67mHmILVlV1
+!i103 1
+S1
+R4
+R17
+R18
+R19
+!i122 97
+R14
+R8
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+vdm
+R0
+R1
+DXx4 work 10 dm_sv_unit 0 22 c<Z?J^ceYKSlACzbeKQWC2
+R16
+R3
+r1
+!s85 0
+!i10b 1
+!s100 AKEWOaBZHG6afGkhVNiiz0
+I_3@52`]ZHJ<aV@DKN?BB=0
+!s105 dm_sv_unit
+S1
+R4
+Z23 w1686256530
+Z24 8C:/Users/FG/Downloads/Programas/mmicro/dm.sv
+Z25 FC:/Users/FG/Downloads/Programas/mmicro/dm.sv
+!i122 98
+L0 6 28
+R8
+31
+R20
+Z26 !s107 C:/Users/FG/Downloads/Programas/mmicro/dm.sv|
+Z27 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/dm.sv|
+!i113 1
+R12
+R13
+Xdm_sv_unit
+R0
+R1
+R16
+Vc<Z?J^ceYKSlACzbeKQWC2
+r1
+!s85 0
+!i10b 1
+!s100 >N:g4h>E[[79HcjfK3aGU3
+Ic<Z?J^ceYKSlACzbeKQWC2
+!i103 1
+S1
+R4
+R23
+R24
+R25
+!i122 98
+Z28 L0 4 0
+R8
+31
+R20
+R26
+R27
+!i113 1
+R12
+R13
+vim
+R0
+R16
+!i10b 1
+!s100 X82GTAQ5WL5[571DGF[>23
+R15
+IdjLXkF]T=Mg[;NoTAgiWZ0
+R3
+S1
+R4
+w1686256607
+8C:/Users/FG/Downloads/Programas/mmicro/im.sv
+FC:/Users/FG/Downloads/Programas/mmicro/im.sv
+!i122 99
+L0 3 13
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/FG/Downloads/Programas/mmicro/im.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/im.sv|
+!i113 1
+R12
+R13
+vminimicro
+R0
+R1
+DXx4 work 17 minimicro_sv_unit 0 22 Ebl0[@kJOKOQO`_DFjA600
+R16
+R3
+r1
+!s85 0
+!i10b 1
+!s100 i1L14Aa4n4AB`[`PIPPCI3
+IZPiG^HHj=8X<QgFf:;dY_2
+!s105 minimicro_sv_unit
+S1
+R4
+Z29 w1686338261
+Z30 8C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv
+Z31 FC:/Users/FG/Downloads/Programas/mmicro/minimicro.sv
+!i122 100
+L0 3 138
+R8
+31
+R20
+Z32 !s107 C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv|
+Z33 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv|
+!i113 1
+R12
+R13
+Xminimicro_sv_unit
+R0
+R1
+R16
+VEbl0[@kJOKOQO`_DFjA600
+r1
+!s85 0
+!i10b 1
+!s100 ?2E`A:YbT`Cj>F`N:_N3Z1
+IEbl0[@kJOKOQO`_DFjA600
+!i103 1
+S1
+R4
+R29
+R30
+R31
+!i122 100
+R14
+R8
+31
+R20
+R32
+R33
+!i113 1
+R12
+R13
+vMux
+R0
+R16
+!i10b 1
+!s100 85_i9Mo73l@bn4DN831G>2
+R15
+I9<XK6lZ91mRfKLimo`l`M1
+R3
+S1
+R4
+w1686257671
+8C:/Users/FG/Downloads/Programas/mmicro/Mux.sv
+FC:/Users/FG/Downloads/Programas/mmicro/Mux.sv
+!i122 101
+L0 1 9
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/FG/Downloads/Programas/mmicro/Mux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/Mux.sv|
+!i113 1
+R12
+R13
+n@mux
+vpc
+R0
+R16
+!i10b 1
+!s100 W<0[obMG5N@O1fAo7E;4Y0
+R15
+IaikkETCi?D`n?8RIP`Vji1
+R3
+S1
+R4
+w1686338036
+8C:/Users/FG/Downloads/Programas/mmicro/pc.sv
+FC:/Users/FG/Downloads/Programas/mmicro/pc.sv
+!i122 102
+L0 1 25
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/FG/Downloads/Programas/mmicro/pc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/pc.sv|
+!i113 1
+R12
+R13
+vrf
+R0
+R1
+DXx4 work 10 rf_sv_unit 0 22 7J^JQS@]eFa[DLT@Gc8ER2
+Z34 !s110 1686342357
+R3
+r1
+!s85 0
+!i10b 1
+!s100 CN@]:PYgZke]Q=7O0AHNm1
+I@8`bZMae@Q^f`U`0354e71
+!s105 rf_sv_unit
+S1
+R4
+Z35 w1686339287
+Z36 8C:/Users/FG/Downloads/Programas/mmicro/rf.sv
+Z37 FC:/Users/FG/Downloads/Programas/mmicro/rf.sv
+!i122 103
+L0 6 33
+R8
+31
+R20
+Z38 !s107 C:/Users/FG/Downloads/Programas/mmicro/rf.sv|
+Z39 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/rf.sv|
+!i113 1
+R12
+R13
+Xrf_sv_unit
+R0
+R1
+R34
+V7J^JQS@]eFa[DLT@Gc8ER2
+r1
+!s85 0
+!i10b 1
+!s100 J^C20D41MH9YaoAOEZ2Gi3
+I7J^JQS@]eFa[DLT@Gc8ER2
+!i103 1
+S1
+R4
+R35
+R36
+R37
+!i122 103
+R28
+R8
+31
+R20
+R38
+R39
+!i113 1
+R12
+R13
+vsr
+R0
+R34
+!i10b 1
+!s100 d_6J7`3UiaV7N^Fz4Ye6V3
+R15
+IfX]>O3jc>7Tk?^Uzo=Qon1
+R3
+S1
+R4
+w1686257007
+8C:/Users/FG/Downloads/Programas/mmicro/sr.sv
+FC:/Users/FG/Downloads/Programas/mmicro/sr.sv
+!i122 104
+L0 1 24
+R8
+r1
+!s85 0
+31
+!s108 1686342357.000000
+!s107 C:/Users/FG/Downloads/Programas/mmicro/sr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/sr.sv|
+!i113 1
+R12
+R13
+vtb_minimicro
+R0
+R1
+DXx4 work 20 tb_minimicro_sv_unit 0 22 cEGbX1>78D7<Web]1eC;h3
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 =T>aFiZU<]k[a2dWJbgC80
+Io_zE[nNj?lLRM:^<GFV=Y2
+!s105 tb_minimicro_sv_unit
+S1
+R4
+Z40 w1686337746
+Z41 8C:/Users/FG/Downloads/Programas/mmicro/tb_minimicro.sv
+Z42 FC:/Users/FG/Downloads/Programas/mmicro/tb_minimicro.sv
+!i122 95
+L0 3 55
+R8
+31
+R9
+Z43 !s107 C:/Users/FG/Downloads/Programas/mmicro/tb_minimicro.sv|
+Z44 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/FG/Downloads/Programas/mmicro/tb_minimicro.sv|
+!i113 1
+R12
+R13
+Xtb_minimicro_sv_unit
+R0
+R1
+R2
+VcEGbX1>78D7<Web]1eC;h3
+r1
+!s85 0
+!i10b 1
+!s100 ^g1X9;FhSS_O:193OMhh_3
+IcEGbX1>78D7<Web]1eC;h3
+!i103 1
+S1
+R4
+R40
+R41
+R42
+!i122 95
+L0 2 0
+R8
+31
+R9
+R43
+R44
+!i113 1
+R12
+R13

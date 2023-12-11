@@ -1,0 +1,131 @@
+vsim work.tb_minimicro
+# vsim work.tb_minimicro 
+# Start time: 14:00:45 on Jun 09,2023
+# Loading sv_std.std
+# Loading work.arm_cortex_m0p_pkg
+# Loading work.tb_minimicro_sv_unit
+# Loading work.tb_minimicro
+# Loading work.minimicro_sv_unit
+# Loading work.minimicro
+# Loading work.pc
+# Loading work.im
+# Loading work.Mux
+# Loading work.rf_sv_unit
+# Loading work.rf
+# Loading work.cu_sv_unit
+# Loading work.cu
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.dm_sv_unit
+# Loading work.dm
+# Loading work.sr
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in0'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in1'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'mux_out'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+add wave -position end sim:/tb_minimicro/top_level/PC_i/*
+add wave -position end sim:/tb_minimicro/top_level/Instruction_memory_i/*
+add wave -position end sim:/tb_minimicro/top_level/Instruction_memory_i/*
+add wave -position end sim:/tb_minimicro/top_level/RF_i/*
+add wave -position end sim:/tb_minimicro/top_level/MUX_i/*
+add wave -position end sim:/tb_minimicro/top_level/PC_i/*
+add wave -position end sim:/tb_minimicro/top_level/Instruction_memory_i/*
+add wave -position end sim:/tb_minimicro/top_level/RF_i/*
+add wave -position end sim:/tb_minimicro/top_level/Control_unit_i/*
+run
+# Break key hit
+run -all
+run -continue
+run
+run
+run
+run
+run -continue
+run -continue
+run -all
+# WARNING: No extended dataflow license exists
+# Compile of arm_cortex_m0p_pkg.sv was successful.
+# Compile of tb_minimicro.sv was successful with warnings.
+# Compile of alu.sv was successful with warnings.
+# Compile of cu.sv was successful with warnings.
+# Compile of dm.sv was successful.
+# Compile of im.sv was successful.
+# Compile of minimicro.sv was successful with warnings.
+# Compile of Mux.sv was successful.
+# Compile of pc.sv was successful.
+# Compile of rf.sv was successful with warnings.
+# Compile of sr.sv was successful.
+# 11 compiles, 0 failed with no errors.
+run -all
+run -all
+# Break key hit
+# Simulation stop requested.
+
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.arm_cortex_m0p_pkg
+# Loading work.tb_minimicro_sv_unit
+# Loading work.tb_minimicro
+# Loading work.minimicro_sv_unit
+# Loading work.minimicro
+# Loading work.pc
+# Loading work.im
+# Loading work.Mux
+# Loading work.rf_sv_unit
+# Loading work.rf
+# Loading work.cu_sv_unit
+# Loading work.cu
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.dm_sv_unit
+# Loading work.dm
+# Loading work.sr
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in0'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in1'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'mux_out'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in0'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in1'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'mux_out'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in0'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in1'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'mux_out'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+run
+run
+run
+run
+do C:/Users/FG/Downloads/minimicro_modelsim/wave.do
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in0'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'in1'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (4) for port 'mux_out'. The port definition is at: C:/Users/FG/Downloads/Programas/mmicro/Mux.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_minimicro/top_level/MUX_i3 File: C:/Users/FG/Downloads/Programas/mmicro/minimicro.sv Line: 57
+run
+run
+run
+run
+run
+run
+run
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/Users/FG/Downloads/minimicro_modelsim/wave.do
